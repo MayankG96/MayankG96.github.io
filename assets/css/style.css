@@ -439,6 +439,10 @@ section {
   line-height: 0;
 }
 
+.about .content p {
+  max-width: 400px; /* Adjust the value as needed */
+}
+
 .about .content p:last-child {
   margin-bottom: 0;
 }
